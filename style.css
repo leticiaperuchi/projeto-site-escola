@@ -1,3 +1,20 @@
+/* Desktop - 1 */
+body{
+position: relative;
+width: 1447px;
+height: 1024px;
+overflow-y: scroll;
+
+background: linear-gradient(284.86deg, rgba(0, 163, 255, 0.2) -0.17%, rgba(0, 53, 84, 0.0604109) 71.7%, rgba(0, 6, 9, 0) 83.45%, rgba(0, 0, 0, 0) 83.46%), #FFFFFF;
+}
+
+/* topo */
 .topo{
-    background-color: aqua;
+position: relative;
+width: 1440px;
+height: 178px;
+
+background: #ADCADA;
+border: 1px solid #9CB2BE;
+border-radius: 2px;
 }
