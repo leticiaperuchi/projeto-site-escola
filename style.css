@@ -53,6 +53,7 @@
   }
   
   .Nostro-Caffè {
+    text-align: center;
     font-family: 'Righteous', cursive;
     font-weight: 400;
     font-size: 64px;
@@ -64,19 +65,6 @@
     font-weight: 400;
     font-size: 24px;
     color: #ECD6C4;
-  }
-  
-  .conteudo-principal-escrito-botao {
-    background-color: #ECD6C4;
-    width: 180px;
-    height: 60px;
-    border: none;
-    box-shadow: 4px 5px 4px rgba(0, 0, 0, 0.25);
-    border-radius: 20px;
-    font-family: 'Sarala', sans-serif;
-    font-weight: 400;
-    font-size: 24px;
-    color: #2F2325;
   }
   
   .conteudo-principal-escrito-botao:hover {
